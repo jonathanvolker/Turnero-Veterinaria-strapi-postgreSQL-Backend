@@ -2,9 +2,14 @@
 Requerimientos: 
 -NodeJS v 14.0.0
 -Visual Studio Code
+.PostgreSQL
 
-Pararse sobre el directorio raiz y ejecutar:
-yarn install o npm install
+Abrir commandPrompt SQL, iniciar sesion y ejecutar: 
+-CREATA DATABASE southernmindspruebtecnica;
+
+Abrir el repositorio en VS Code, pararse sobre el directorio api-strapi-southernminds y ejecutar:
+-yarn install o npm install 
+
 
 Para inicializar panel de Strapi ejecutar:
 yarn develop iniciar strapi
