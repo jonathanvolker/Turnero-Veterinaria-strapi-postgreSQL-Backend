@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mascotas",
+  "info": {
+    "name": "mascota",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    },
+    "raza": {
+      "type": "string"
+    },
+    "sexo": {
+      "type": "string"
+    },
+    "meses": {
+      "type": "integer"
+    },
+    "aproximada": {
+      "type": "boolean"
+    },
+    "edadAdulta": {
+      "type": "string"
+    }
+  }
+}
