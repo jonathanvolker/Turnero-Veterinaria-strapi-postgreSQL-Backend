@@ -27,7 +27,7 @@
     "aproximada": {
       "type": "boolean"
     },
-    "edadAdulta": {
+    "fechaNacimiento": {
       "type": "string"
     }
   }
