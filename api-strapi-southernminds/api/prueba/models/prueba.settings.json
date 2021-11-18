@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pruebas",
+  "info": {
+    "name": "prueba"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    },
+    "edad": {
+      "type": "datetime"
+    },
+    "bool": {
+      "type": "boolean"
+    }
+  }
+}

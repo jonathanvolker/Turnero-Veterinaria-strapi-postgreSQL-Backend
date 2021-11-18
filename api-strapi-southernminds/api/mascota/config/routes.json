@@ -50,7 +50,7 @@
     },
     {
       "method": "POST",
-      "path": "/mascotas/nuevamascota/:nombre/:raza/:sexo/:edadAdulta/:mes/:aprox",
+      "path": "/nuevamascota",
       "handler": "mascota.createAnimal",
       "config": {
         "policies": []
