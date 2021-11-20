@@ -26,3 +26,5 @@ Requerimientos:
 # `pass: Admin54321`
 
 
+Una vez inicializado el panel de Strapi el administrador puede crear nuevas razas desde el panel Content-Types Builder añadiendo solamente el nombre de la raza.
+Podra visualizar en el panel Content Types todas las cargas realizadas en el modelo seleccionado, tanto de Razas (creadas por el admin) como las mascotas (ingresadas desde el front)
