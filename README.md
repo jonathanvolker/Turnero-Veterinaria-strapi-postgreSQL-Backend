@@ -1,4 +1,4 @@
-# api-strapi-SouthernMinds
+# api-strapi-turneroVeterinaria
 Requerimientos: 
 -NodeJS v 14.0.0
 -Visual Studio Code
@@ -6,7 +6,7 @@ Requerimientos:
 
 ### Abrir commandPrompt SQL, iniciar sesion y ejecutar: 
 
-# `CREATA DATABASE southernmindspruebtecnica`
+# `CREATA DATABASE veterinaria`
 
 
 ### Abrir el repositorio en VS Code, pararse sobre el directorio api-strapi-southernminds y ejecutar:
